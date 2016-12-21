@@ -1,10 +1,10 @@
-#include<iostream>
+ï»¿#include<iostream>
 #include<string>
 using namespace std;
 
 int main()
 {
 	int a = 5;
-	string s1 = "ÎÒÃÇÔÚÕâÀï";
+	string s1 = "æˆ‘ä»¬åœ¨è¿™é‡Œ";
 	cout << a << s1<<endl;
 }

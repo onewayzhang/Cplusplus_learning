@@ -4,8 +4,7 @@ using namespace std;
 
 int main()
 {
-	string s1 = "I'm a string";  //鍒濆鍖杝tring瀵硅薄	
-        cout << s1 << endl;
-
-	return 0;
+	int a = 5;
+	string s1 = "我们在这里";
+	cout << a << s1<<endl;
 }

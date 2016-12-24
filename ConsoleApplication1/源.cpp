@@ -17,5 +17,5 @@ int main()
 	(*b2).empty();
 	cout << *b << ' '<<endl;
 
-
+	//vzxdvxczvxcvxczvxczv
 }

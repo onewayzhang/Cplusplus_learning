@@ -1,3 +1,4 @@
+//this program is to check whether an element in v1 exists in v2 , if so, record their indices in jilu.
 #include <iostream>
 #include<vector>
 
@@ -18,7 +19,7 @@ int main()
             if(v1[j1]==v2[j2] ){
                jilu.push_back(j1);
 
-                break;   //注意这里跳出内层 for循环
+                break;   ////娉ㄦ剰杩欓噷璺冲嚭鍐呭眰 for寰幆
             }
         }
 
